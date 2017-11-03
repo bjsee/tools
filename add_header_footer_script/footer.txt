@@ -1,0 +1,4 @@
+		</sql>
+	</changeSet>
+
+</databaseChangeLog>
